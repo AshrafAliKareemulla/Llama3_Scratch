@@ -21,15 +21,6 @@
 
 This repository contains implementation of Llama 3 that is introduced in the paper [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) using PyTorch. You can [access the weights from Meta website here](https://www.llama.com/llama-downloads/). I took [Meta's official implementation](https://github.com/meta-llama/llama3) as the base of this project. Since all Llama models are built on top of each other, you can use this repository for other Llama implementations as well.
 
-## YouTube Tutorial
-<div align="center">
-    <a href="https://www.youtube.com/watch?v=lrWY4O5kUTY">Implement Llama From Scratch - PyTorch</a>
-    <br>
-    <br>
-    <a href="https://www.youtube.com/watch?v=lrWY4O5kUTY">
-        <img src="./assets/thumbnail.png" height="85%" width="85%%"/>
-    </a>
-</div>
 
 ## Table of Contents
 * [Llama 3 Implementation](#llama3)
